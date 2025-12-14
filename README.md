@@ -63,7 +63,7 @@ Understand how CSS Grid start and end is used to create non-uniform card sizes
 
 🧾 Solution Repository:
 
-🌍 Live Site:
+🌍 Live Site: https://testimoniallgrid.netlify.app/
 
 🛠️ My process
 🔧 Built with
